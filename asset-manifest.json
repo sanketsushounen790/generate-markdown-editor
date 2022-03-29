@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/generate-markdown-editor/static/css/main.813aa385.css",
+    "main.js": "/generate-markdown-editor/static/js/main.40c1b23d.js",
+    "static/media/peace_pigeon_icon.png": "/generate-markdown-editor/static/media/peace_pigeon_icon.f624dd22d4c8c7069d30.png",
+    "static/media/npm_logo.png": "/generate-markdown-editor/static/media/npm_logo.5904c46fdce9a3192c3b.png",
+    "index.html": "/generate-markdown-editor/index.html",
+    "main.813aa385.css.map": "/generate-markdown-editor/static/css/main.813aa385.css.map",
+    "main.40c1b23d.js.map": "/generate-markdown-editor/static/js/main.40c1b23d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.813aa385.css",
+    "static/js/main.40c1b23d.js"
+  ]
+}
