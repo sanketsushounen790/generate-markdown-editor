@@ -4,6 +4,7 @@
   "homepage": "https://sanketsushounen790.github.io/generate-markdown-editor",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.8.2",
     "@mui/icons-material": "^5.5.1",
     "@mui/material": "^5.5.2",
     "draft-js": "^0.11.7",
